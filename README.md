@@ -1,3 +1,3 @@
-# FC Srijan POC
+# React App Boilerplate
 
-POC components developed by FC Srijan devs.
+React app setup environment.
