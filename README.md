@@ -1,3 +1,3 @@
 # React App Boilerplate
 
-React app setup environment.
+React app complete setup notes.
