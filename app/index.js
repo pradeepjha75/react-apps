@@ -6,8 +6,7 @@ import './index.css';
 class App extends React.Component{
     render(){
         return(
-            <div>
-            Hello World<Car /></div>
+            <div> Hello World<Car /></div>
         )
     }
 }
